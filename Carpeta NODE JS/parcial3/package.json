@@ -1,0 +1,27 @@
+{
+  "name": "parcial3",
+  "version": "1.0.0",
+  "description": "Backend de la app del profe ramon",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "flutter",
+    "apprappi",
+    "nodejs"
+  ],
+  "author": "Carlos Vazquez Alcantara",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "http": "^0.0.1-security",
+    "morgan": "^1.10.0",
+    "passport": "^0.5.0",
+    "passport-jwt": "^4.0.0",
+    "pg-promise": "^10.11.1"
+  }
+}
